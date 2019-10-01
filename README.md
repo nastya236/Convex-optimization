@@ -1,2 +1,2 @@
 # Optimization
-Homework for optimization course(MIPT, DCAM, 2019- 2020)
+Homework for optimization course (MIPT, DCAM, 2019- 2020)
